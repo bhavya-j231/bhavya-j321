@@ -1,4 +1,4 @@
-# bhavya-j321
+# bhavya-j231
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hello there.., I'm Bhavya Jha</h1>
 <h3 align="center">A passionate CSE sophomore</h3>
